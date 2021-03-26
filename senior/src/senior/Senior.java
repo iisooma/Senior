@@ -17,6 +17,7 @@ public class Senior {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("senior project");
+        System.out.println("ibike");
     }
     
 }
